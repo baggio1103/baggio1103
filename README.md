@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baggio</h1>
 <h3 align="center">An inspired backend developer, student, and blogger</h3>
 
-- 🌱 I’m currently learning **Multithreading and Parallel Computations in Kotlin and Java**
+- 🌱 I’m currently advancing my understanding of **Multithreading and Parallel Computations in Kotlin and Java**
 
 - 📝 I write articles on [Medium](https://java-jedi.medium.com/), but I've also wrote on [Proglib](https://proglib.io/me/publications).
  
