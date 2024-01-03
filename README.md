@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently advancing my understanding of **Multithreading and Parallel Computations in Kotlin and Java**
 
-- 📝 I write articles on [Medium](https://java-jedi.medium.com/), but I've also wrote on [Proglib](https://proglib.io/me/publications).
+- 📝 I write articles on [Medium](https://java-jedi.medium.com/), besides write posts on [Proglib](https://proglib.io/me/publications) as well.
  
 - 💬 Ask me about **Java, Data Structures and Algorithms, Kotlin, Spring, Spring Boot**
 
