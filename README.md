@@ -3,8 +3,12 @@
 
 - 🌱 I’m currently advancing my understanding of **Multithreading and Parallel Computations in Kotlin and Java**
 
-- 📝 I write articles on [Medium](https://java-jedi.medium.com/), besides write posts on [Proglib](https://proglib.io/me/publications) as well.
- 
+- 📝 I write articles on [Medium](https://java-jedi.medium.com/), [Substack](https://substack.com/@atomiccoding?utm_source=user-menu).
+
+- 📃 I lead Telegram channel where I write posts regularly - [AtomicCoding](https://t.me/atomicCoding)
+
+- 📹 Also try to record tutorials and upload them on [Youtube Channel](https://www.youtube.com/@atomiccoding)
+
 - 💬 Ask me about **Java, Data Structures and Algorithms, Kotlin, Spring, Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
